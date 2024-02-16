@@ -1,0 +1,13 @@
+#square {
+    position: absolute;
+    width: 300px ;
+    height: 132px ;
+    background-color: green;
+}
+body{
+    background-color: black;
+    overflow: hidden;
+}
+img {
+    user-select: none;
+}
